@@ -2,10 +2,12 @@ Full-Size-HE
 ------------------------------------------------------------------------
 Layout
 first row -13 keys - esc +function row or hotkeys
-encoder for volume top right
-oled top right
+2 encoders for volume top right and tap shift or window shift
 60% mainframe
 arrow keys + numpad on right side
+61+13+17+4+2 encoder
+98 keys total
+98/16=7 multiplexers
 ------------------------------------------------------------------------
 Bill Of Materials (BOM):
 - Blackpill STM32 board
