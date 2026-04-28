@@ -1,7 +1,7 @@
 Full-Size-HE
 ------------------------------------------------------------------------
 Layout
-first row -13 keys - esc +function row or hotkeys
+first row -13 keys - esc no function row or hotkeys
 2 encoders for volume top right and tap shift or window shift
 60% mainframe
 arrow keys + numpad on right side
