@@ -5,8 +5,8 @@ first row -13 keys - esc +function row or hotkeys
 2 encoders for volume top right and tap shift or window shift
 60% mainframe
 arrow keys + numpad on right side
-61+17+4+2 encoder
-84 keys total
+60+12+10+1 encoder
+82 keys total
 84/16=6 multiplexers
 ------------------------------------------------------------------------
 Bill Of Materials (BOM):
