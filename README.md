@@ -10,9 +10,9 @@ arrow keys + numpad on right side
 84/16=6 multiplexers
 ------------------------------------------------------------------------
 Bill Of Materials (BOM):
-- SS49E Hall Effect Sensors
+- SS39ET Hall Effect Sensors
 - CD74HC4067M
-- Espressif esp32-s3 on mouser - will find cheaper reatailer if possible
+- NRF52840 chipset- will find cheaper reatailer if possible
 - Sidenote : make this a table
 ------------------------------------------------------------------------
 Links to parts:
