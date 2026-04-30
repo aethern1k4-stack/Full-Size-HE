@@ -13,6 +13,7 @@ Bill Of Materials (BOM):
 - SS39ET Hall Effect Sensors
 - CD74HC4067M
 - NRF52840 chipset- will find cheaper reatailer if possible
+- Bunch of other passive componenets like caps and resitors and inductors will go with jlc pcb hopefully is pretty cheap or else im cooked
 - Sidenote : make this a table
 ------------------------------------------------------------------------
 Links to parts:
