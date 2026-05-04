@@ -10,9 +10,11 @@ arrow keys + numpad on right side
 84/16=6 multiplexers
 ------------------------------------------------------------------------
 Bill Of Materials (BOM):
-- SS39ET Hall Effect Sensors
-- CD74HC4067M
-- NRF52840 chipset- will find cheaper reatailer if possible
+- SS39ET Hall Effect Sensors - around 82
+- CD74HC4067M - subject to change
+- NRF52840 chipset- will find cheaper reatailer if possible - xiao nrf plus - AqFN package
+- ADS7953 - 2
+- Stabilisers
 - Bunch of other passive componenets like caps and resitors and inductors will go with jlc pcb hopefully is pretty cheap or else im cooked
 - Sidenote : make this a table
 ------------------------------------------------------------------------
